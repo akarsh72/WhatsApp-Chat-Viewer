@@ -1,4 +1,4 @@
-#📲 Your Chat, Your Way
+# 📲 Your Chat, Your Way
 
 **A Python-based GUI application** designed to **upload** and **view** exported **WhatsApp chats** in an **intuitive** and **user-friendly interface**. The application allows users to **customize themes** and **display sender/receiver names**, providing a **seamless experience** for **analyzing conversations**.
 
