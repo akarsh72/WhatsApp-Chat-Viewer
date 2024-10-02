@@ -23,7 +23,7 @@ View your chats with **customizable themes** and a clean, organized interface th
 
 
 ### 📂 **Chat Export Upload Window**: 
-Easily upload your **WhatsApp chat exports** in **text format** and customize **sender details** for a personalized experience.
+Upload your **WhatsApp chat exports** and enter the **exact sender name** for accurate personalized displays.
 ![1st Window](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/2nd.png)
 
 
