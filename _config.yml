@@ -1,6 +1,8 @@
-title: WhatsApp CHat Viewer
+title: WhatsApp Chat Viewer
 logo: logo.png
-description: Minimal is a theme for GitHub Pages.
+description: A sleek and efficient tool for viewing exported WhatsApp chats with customizable themes.  
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+show_navbar: true
+show_footer: true
