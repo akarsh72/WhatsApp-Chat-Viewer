@@ -15,19 +15,21 @@
 
 ## 🖼️ **Screenshots**
 
-### 📝 **Chat Display with Custom Themes**: View your chats with **customizable themes** and a clean, organized interface that enhances readability.
+### 📝 **Chat Display with Custom Themes**: 
+View your chats with **customizable themes** and a clean, organized interface that enhances readability.
 ![Conversion](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/01.PNG)
-***
 
-### 📂 **Chat Export Upload Window**: Easily upload your **WhatsApp chat exports** in **text format** and customize **sender details** for a personalized experience.
+
+### 📂 **Chat Export Upload Window**: 
+Easily upload your **WhatsApp chat exports** in **text format** and customize **sender details** for a personalized experience.
 ![1st Window](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/2.PNG)
-***
 
-### 🌙 **Dark Mode for Night Viewing**: Switch to a sleek **dark mode** for a comfortable viewing experience in low light, reducing eye strain.
+
+### 🌙 **Dark Mode for Night Viewing**: 
+Switch to a sleek **dark mode** for a comfortable viewing experience in low light, reducing eye strain.
 ![2nd Window](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/3.PNG)
 
 
-***
 🚀 **How to Use**
 
 1. **Clone** the repository to your local machine.
