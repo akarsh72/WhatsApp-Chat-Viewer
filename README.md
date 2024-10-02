@@ -19,19 +19,19 @@
 
 ### 📝 **Chat Display with Custom Themes**: 
 View your chats with **customizable themes** and a clean, organized interface that enhances readability.
-![Conversion](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/01.PNG)
+![Conversion](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/1st.png)
 
 
 
 ### 📂 **Chat Export Upload Window**: 
 Easily upload your **WhatsApp chat exports** in **text format** and customize **sender details** for a personalized experience.
-![1st Window](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/2.PNG)
+![1st Window](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/2nd.png)
 
 
 
 ### 🌙 **Dark Mode for Night Viewing**: 
 Switch to a sleek **dark mode** for a comfortable viewing experience in low light, reducing eye strain.
-![2nd Window](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/3.PNG)
+![2nd Window](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/3rd.png)
 
 
 🚀 **How to Use**
