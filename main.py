@@ -186,7 +186,7 @@ if __name__ == "__main__":
     root.minsize(350, 600)
     root.maxsize(350, 600)
     root.title("Developer : Akarsh Prakash")
-    root.wm_iconbitmap('WA_icon.ico')
+    root.wm_iconbitmap('logo_icon.ico')
 
     label_1 = Label(root, text="Upload the WhatsApp exported file \n & \n Provide Sender's Name.", bg='#00A550', fg='white', font='comicsansns 15 bold')
     label_1.pack(padx=10, pady=(50, 20))
