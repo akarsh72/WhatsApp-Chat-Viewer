@@ -1,4 +1,5 @@
-📲 **A Python-based GUI application** designed to **upload** and **view** exported **WhatsApp chats** in an **intuitive** and **user-friendly interface**. The application allows users to **customize themes** and **display sender/receiver names**, providing a **seamless experience** for **analyzing conversations**.
+#📲 Your Chat, Your Way
+**A Python-based GUI application** designed to **upload** and **view** exported **WhatsApp chats** in an **intuitive** and **user-friendly interface**. The application allows users to **customize themes** and **display sender/receiver names**, providing a **seamless experience** for **analyzing conversations**.
 
 ## ✨ **Features**
 
@@ -20,9 +21,11 @@ View your chats with **customizable themes** and a clean, organized interface th
 ![Conversion](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/01.PNG)
 
 
+
 ### 📂 **Chat Export Upload Window**: 
 Easily upload your **WhatsApp chat exports** in **text format** and customize **sender details** for a personalized experience.
 ![1st Window](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/2.PNG)
+
 
 
 ### 🌙 **Dark Mode for Night Viewing**: 
@@ -36,7 +39,7 @@ Switch to a sleek **dark mode** for a comfortable viewing experience in low ligh
 2. **Run** the Python script to launch the application.
 3. **Upload** your exported WhatsApp chat file in text format.
 4. **Customize** sender name, and easily **switch between themes** to suit your preferences.
-***
+
 
 
 
