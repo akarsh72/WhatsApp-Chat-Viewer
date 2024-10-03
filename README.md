@@ -1,7 +1,8 @@
 # 📲 Your Chat, Your Way
+## 🛠️ The Problem
 When exporting WhatsApp chats, the resulting text file can often be overwhelming and difficult to navigate. The messages lose their original structure, making it time-consuming to read and analyze conversations. Once exported, it becomes nearly impossible to restore the chat’s readability, negatively impacting the user experience.
 
-If you haven’t exported your WhatsApp chats before, follow these simple steps:
+If you haven’t exported your WhatsApp chats before, follow these simple steps :
 1. Open a **WhatsApp chat**.
 2. Tap on the **three dots** in the top right corner.
 3. Select **More**.
@@ -9,7 +10,7 @@ If you haven’t exported your WhatsApp chats before, follow these simple steps:
 
 Once you export the file, you'll quickly notice how difficult it is to interpret the raw format.
 
-## Introducing WhatsApp Chat Viewer
+## Introducing " WhatsApp Chat Viewer " : The Ultimate Solution 💡
 
 The **WhatsApp Chat Viewer** is a **Python-based GUI application** developed to simplify chat viewing and restore clarity to your conversations. It allows users to **upload exported chats** and view them in a **clean, organized format** that closely mirrors the original WhatsApp interface.
 
@@ -48,7 +49,7 @@ Upload your **WhatsApp chat exports** and enter the **exact sender name** for ac
 Switch to a sleek **dark mode** for a comfortable viewing experience in low light, reducing eye strain.
 ![2nd Window](https://raw.githubusercontent.com/akarsh72/WhatsApp-Chat-Viewer/refs/heads/main/ScreenShots/3rd.png)
 
-
+---
 🚀 **How to Use**
 
 1. **Clone** the repository to your local machine.
