@@ -1,6 +1,22 @@
 # 📲 Your Chat, Your Way
+When exporting WhatsApp chats, the resulting text file can often be overwhelming and difficult to navigate. The messages lose their original structure, making it time-consuming to read and analyze conversations. Once exported, it becomes nearly impossible to restore the chat’s readability, negatively impacting the user experience.
 
-**A Python-based GUI application** designed to **upload** and **view** exported **WhatsApp chats** in an **intuitive** and **user-friendly interface**. The application allows users to **customize themes** and **display sender/receiver names**, providing a **seamless experience** for **analyzing conversations**.
+If you haven’t exported your WhatsApp chats before, follow these simple steps:
+1. Open a **WhatsApp chat**.
+2. Tap on the **three dots** in the top right corner.
+3. Select **More**.
+4. Choose **Export Chat**.
+
+Once you export the file, you'll quickly notice how difficult it is to interpret the raw format.
+
+## Introducing WhatsApp Chat Viewer
+
+The **WhatsApp Chat Viewer** is a **Python-based GUI application** developed to simplify chat viewing and restore clarity to your conversations. It allows users to **upload exported chats** and view them in a **clean, organized format** that closely mirrors the original WhatsApp interface.
+
+---
+
+Enjoy a more intuitive way to view your chats with **WhatsApp Chat Viewer**—your chats, your way!
+
 
 ## ✨ **Features**
 
