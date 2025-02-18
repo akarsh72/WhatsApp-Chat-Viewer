@@ -77,7 +77,7 @@ Switch to a sleek **dark mode** for a comfortable viewing experience in low ligh
 ---
 
 ## 🙏 **Support**
-If you enjoy the game, consider giving it a ⭐ on GitHub! Your support motivates me to create more fun projects.    
+If you like my idea, consider giving it a ⭐ on GitHub! Your support motivates me to create more projects.    
 [![GitHub Stars](https://img.shields.io/github/stars/akarsh72/WhatsApp-Chat-Viewer?style=social)](https://github.com/akarsh72/WhatsApp-Chat-Viewer)
 
 ---
