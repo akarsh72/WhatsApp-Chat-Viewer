@@ -58,6 +58,29 @@ Switch to a sleek **dark mode** for a comfortable viewing experience in low ligh
 3. **Upload** your exported WhatsApp chat file in text format.
 4. **Customize** sender name, and easily **switch between themes** to suit your preferences.
 
+---
+
+## 💻 **Developer**
+<table>
+  <tr>
+    <td>
+      👨‍💻 Designed and Developed by <strong>Akarsh Prakash</strong><br>
+      📧 Contact: <a href="mailto:akarshprakash72@gmail.com">akarshprakash72@gmail.com</a><br>
+      🌐 GitHub: <a href="https://github.com/akarsh72">akarsh72</a>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/akarsh72/Sequence-Sprint/refs/heads/main/Screeenshot/developer.jpeg" width="100" height="100" style="border-radius: 50%;">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🙏 **Support**
+If you enjoy the game, consider giving it a ⭐ on GitHub! Your support motivates me to create more fun projects.    
+[![GitHub Stars](https://img.shields.io/github/stars/akarsh72/WhatsApp-Chat-Viewer?style=social)](https://github.com/akarsh72/WhatsApp-Chat-Viewer)
+
+---
 
 
 
